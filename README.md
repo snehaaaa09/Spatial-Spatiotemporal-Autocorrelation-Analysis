@@ -59,4 +59,5 @@ This file contains all the functions required for implementing the extended vers
 
 ## References
 Gao, Y., Cheng, J., Meng, H., & Liu, Y. (2019). Measuring spatio-temporal autocorrelation in time series data of collective human mobility. Geo-Spatial Information Science, 22(3), 166–173. https://doi.org/10.1080/10095020.2019.1643609. 
+
 Moran, P. (1950) A Test for the Serial Independence of Residuals. Biometrika, 37, 178-181. http://dx.doi.org/10.1093/biomet/37.1-2.178
