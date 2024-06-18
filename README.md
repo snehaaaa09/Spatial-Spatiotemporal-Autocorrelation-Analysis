@@ -13,7 +13,7 @@ This research explores Spatial and Spatiotemporal Autocorrelation analysis of re
 #### Explanatory variables
 Create a sub-folder called 'X_data(Nuts2)' under the 'data' folder before downloading and uploading the following data. (All of the explanatory data downloaded is at the NUTS 2 level)
 1) Disposible_income(Nuts2): The data entry is called 'Disposable income of private households by NUTS 2 regions' on the data browser. Download the full dataset as the 'csv' version and upload it to the 'X_data(Nuts2)' subfolder under the folder named 'Disposible_income(Nuts2)' (data/X_data(Nuts2)/Disposible_income(Nuts2)/...)
-2)Primary_income(Nuts2):  The data entry is called 'Primary income of private households by NUTS 2 regions' on the data browser. Download the full dataset as the 'csv' version and upload it to the 'X_data(Nuts2)' subfolder under the folder named 'Primary_income(Nuts2)' (data/X_data(Nuts2)/Primary_income(Nuts2)/...)
+2) Primary_income(Nuts2):  The data entry is called 'Primary income of private households by NUTS 2 regions' on the data browser. Download the full dataset as the 'csv' version and upload it to the 'X_data(Nuts2)' subfolder under the folder named 'Primary_income(Nuts2)' (data/X_data(Nuts2)/Primary_income(Nuts2)/...)
 For the following explanatory variables, follow the same pattern of downloading and creating a sub-folder with the name of the variable: 
 3) Population_density(Nuts2)
 4) Population_jan1(Nuts2)
